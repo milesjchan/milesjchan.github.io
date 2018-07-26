@@ -8,8 +8,14 @@ I'll never forget my first flight in a little Piper Cherokee. My pilot and I got
 
 I'm passionate about the fundamentals. I love it when I can explore and build my understanding of a physical phenomena. It's even more gratifying to use my modeling to support the creation of something new and exciting.
 
-I am a student of the physical phenonmena that surrounds everyone and everything that has ever existed. I am also a maker of things. My interests include:
+Notable experiences include:
+- Research
+  - Physical reason for wombat cubic scat
+- Internships
+  - Aircraft point loads generation and development of automated plastic bending tool
+  - Data analysis and modeling of ground effect on stall angle of attack
 
+My research interests include:
 - Modeling
   - Physical phenomena
   - System modeling
@@ -19,3 +25,6 @@ I am a student of the physical phenonmena that surrounds everyone and everything
   - Mechatronics
   - Controls design
   - CAD and CAM
+- Analysis
+  - Stress analysis
+  - Simulation
