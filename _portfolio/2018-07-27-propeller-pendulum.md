@@ -3,6 +3,8 @@ layout: post
 title: "2 Motor Propeller Pendulum"
 ---
 
+![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum")
+
 * Undergrad controls project
 * Designed in SolidWorks
 * Manufactured using laser cutter, 3D printer

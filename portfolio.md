@@ -25,8 +25,6 @@ permalink: /portfolio/
 
 </div>
 
-Electric longboard
-
 ME2110 project
 
 Hack-A-Thing
