@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Miles Chan
-email: your-email@example.com
+email: miles.j.chan (AT) gatech (DOT) edu
 description: >- # this means to ignore newlines until "baseurl:"
   My portfolio, about me, contact information, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -22,9 +22,15 @@ url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 
+collections:
+  portfolio:
+    output: true
+    permalink: /portfolio/:path/
+
 # Build settings
 markdown: kramdown
 theme: minima
+# remote_theme: "mmistakes/jekyll-theme-basically-basic"
 plugins:
   - jekyll-feed
 
