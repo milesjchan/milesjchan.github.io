@@ -4,29 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I'll never forget my first flight in a little Piper Cherokee. My pilot and I got the aircraft high above snow covered, wintry North Carolina, and started cycling through the flaps settings. I had formed a longitudinal aircraft pitch model as part of my internship, and now I had the opportunity to feel the physical manifestation of the interactions between the wing downwash and horizontal stabilizer. Seeing the unintuitive effects I had familiarized myself with in real life made me incredibly happy.
+I'm passionate about studying fundamental physical principles, how they manifest themselves in nature, and their implementation in man-made machines. My desire to learn how things work drew me to mechanical engineering as an undergrad, and eventually to research studying soft matter flow in biological systems. Interning at Honda Aircraft opened my eyes to the interesting world of aerodynamics and all things aviation-related.
 
-I'm passionate about the fundamentals. I love it when I can explore and build my understanding of some physical phenomena. It's even more gratifying to use my modeling to support the creation of something new and exciting.
-
-I'm a mechanical engineer and undergraduate researcher at Georgia Tech. I'm also a volunteer instructor at the Invention Studio, a maker space on campus which supports capstone, research, startup, and personal projects at Georgia Tech. I'm also an model aircraft hobbyist and Arduino project enthusiast.
-
-Notable experiences include:
-- Research
-  - Physical reason for wombat cubic scat
-- Internships
-  - Aircraft point loads generation and development of automated plastic bending tool
-  - Data analysis and modeling of ground effect on stall angle of attack
-
-My research interests include:
-- Modeling
-  - Physical phenomena
-  - System modeling
-  - Biomechanics
-  - Aerodynamics
-- Implementation
-  - Mechatronics
-  - Controls design
-  - CAD and CAM
-- Analysis
-  - Stress analysis
-  - Simulation
+I also volunteer as a prototyping instructor at the Invention Studio at Georgia Tech, in exchange for 24/7 access to manual tools, 3D printers, laser cutters, waterjets, and other machines. I like working on small devices which showcase interesting physical phenomena, including my model airplanes. I especially enjoy seeing other students bring in their cool personal, research, and class projects. 
