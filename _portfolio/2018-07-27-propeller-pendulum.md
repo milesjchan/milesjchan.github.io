@@ -3,13 +3,33 @@ layout: post
 title: "2 Motor Propeller Pendulum"
 ---
 
-![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum")
+<!-- ![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum") -->
+<div class="col-md-12">
+  <div class="pull-left"><img src="{{site.url}}/assets/portfolio/dual_prop_pend.jpg" class="pull-left"></div>
+  <!--more-->
+  <div class="pull-left">
+    <h3>Summary</h3>
+    <p>The propeller pendulum is an interesting controls problem, consisting of a thrust source mounted on the end of a pivoting arm, where angular position is measured using a potentiometer. Most of the papers I've seen use a poor linearization based on the small-angle approximation about the vertical plane. This of course breaks down when the arm is near the horizontal, 90 degree setpoint. Many examples also do not implement bidirectional flow control, or two propeller-motors opposing each other.</p>
 
-* Undergrad controls project
-* Designed in SolidWorks
-* Manufactured using laser cutter, 3D printer
-* Custom PID code implemented on Arduino
-* Characterized using open loop testing
-* Uses 2 motors for thrust in opposite directions
+    <p>I worked with my partner, Tyler Boone, to implement a propeller pendulum with bidirectional flow control using PID logic for our undergraduate controls class. We were able to reduce the time required to reach the 90 degree setpoint as compared to the single propeller-motor version. We achieved some level of agreement with MATLAB simulations, with regard to the overall behavior of the PID controller we implemented. We were also able to move between set points of 0 deg and 110 deg on command, with reasonable response times.</p>
 
-The propeller pendulum has a thrust source mounted on the end of a single pivot arm. Arm angle is measured by measuring the voltage drop across a rotary potentiometer. PID control using custom code is implemented on an Arduino, outputting a desired thrust. The code converts the desired total thrust into PWM signals for both motors.
+    <p>However, there is much room for improvement, and I believe the propeller pendulum project is well worth revisiting in the future.</p>
+  </div>
+  <div class="pull-left">
+    <h3>Details</h3>
+    <ul>
+      <li>Undergrad controls project</li>
+      <li>Designed using SolidWorks</li>
+      <li>Manufactured using laser cutter, 3D printer</li>
+      <li>Custom PID code implemented on Arduino</li>
+      <li>System characterized using open loop testing</li>
+      <li>Uses 2 motors for bidirectional flow control</li>
+    </ul>
+  </div>
+  <div class="pull-left">
+    <h3>Resources</h3>
+    <ul>
+      <li>Presentation</li>
+      <li>MATLAB simulation</li>
+  </div>
+</div>

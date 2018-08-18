@@ -18,9 +18,11 @@ email: miles.j.chan (AT) gatech (DOT) edu
 description: >- # this means to ignore newlines until "baseurl:"
   My portfolio, about me, contact information, and more!
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "milesjchan.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
+
+excerpt_separator: "<!--more-->"
 
 collections:
   portfolio:
