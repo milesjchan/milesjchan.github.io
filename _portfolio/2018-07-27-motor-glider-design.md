@@ -20,3 +20,9 @@ I have always found the definitions of the horizontal stabilizer (hstab) arm and
 After validating my model against model airplanes I've already built, I realized that I could apply it to aircraft I do not own. By pulling measurements from planform pictures using ImageJ, I was able to study the geometric dimensions of several model airplanes. I became more comfortable with the idea of designing a new aircraft, using my new tool and familiarity with usual airplane proportions in the process.
 
 <h3>Design Method</h3>
+Based on data from previous aircraft designs, I predicted the takeoff weight of my aircraft for a given motor, speed controller, and battery combination. I used this to define my wing planform geometry for my desired aspect ratio, which came from my desire to have glider-like performance.
+
+![MATLAB Planform Geometry]({{site.url}}/assets/portfolio/mg_matlab.png)
+For that given wing geometry, and a tail constraint dimension, I solved for the CG location, vertical and horizontal stabilizer positions and dimensions for reasonable values of vertical and horizontal stabilizer volume fractions. I implemented object-oriented tools in MATLAB to automate the process and provide design visualization capability.
+
+After defining the dimensions of my aircraft, I created a CAD model in SolidWorks.

@@ -24,9 +24,3 @@ permalink: /portfolio/
   {% endfor %}
 
 </div>
-
-ME2110 project
-
-Hack-A-Thing
-
-Broach press  
