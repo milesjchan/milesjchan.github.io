@@ -3,7 +3,7 @@ layout: post
 title: "Motor Glider Design"
 ---
 ![Motor Glider]({{site.url}}/assets/portfolio/mg_full.jpg "Fixed wing aircraft")
-
+<!--more-->
 <h3>Summary</h3>
 This project actually began with a MATLAB script I wrote to calculate the center of gravity (CG) location of a conventional-layout aircraft, given measurements of the aircraft and a desired static margin. It made picking the CG location for new model airplanes substantially easier, since the manufacturer markings are often incorrect. After writing the tool, I realized that it might have applicability in a design project.
 
