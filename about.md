@@ -6,7 +6,7 @@ permalink: /about/
 
 <!-- ![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum"){: .floated} -->
 <!-- <div class='align-right' markdown="1" -->
-<p><img align="left" width="100" height="100" src="http://www.fillmurray.com/100/100"></p>
+<img align="left" src="{{site.url}}/assets/site/looking_up.jpg">
 <!-- ![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum")
 </div> -->
 I'm passionate about studying fundamental physical principles, how they manifest themselves in nature, and their implementation in man-made machines. My desire to learn how things work drew me to mechanical engineering as an undergrad, and eventually to research studying soft matter flow in biological systems. Interning at Honda Aircraft opened my eyes to the interesting world of aerodynamics and all things aviation-related.
