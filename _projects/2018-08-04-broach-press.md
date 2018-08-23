@@ -2,7 +2,7 @@
 layout: post
 title: "Broach Press"
 ---
-![Broach Press]({{site.url}}/assets/portfolio/bp_1stprincipal.jpg)
+![Broach Press]({{site.url}}/assets/projects/bp_1stprincipal.jpg)
 <!--more-->
 <h3>Summary</h3>
 Transferring torque between a shaft and rotating component requires a mechanical interface of some sort. Depending on the application, a press fit, machine key, or spline interface may be used. Sometimes, it is convenient to use a shaft with a cross section which has multiple contact vertices, such as a hex shaft.

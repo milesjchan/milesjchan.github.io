@@ -6,10 +6,10 @@ layout: home
 ---
 <!-- <div class="container"> -->
   <div class="row">
-    <div class="col-md-6 vcenter">
+    <div class="col-md-6">
       <p>I'm Miles, an undergraduate mechanical engineering student at Georgia Tech and aspiring researcher in biomechanics and aerodynamics.</p>
     </div>
-    <div class="col-md-6 vcenter">
+    <div class="col-md-6">
       <img src = "assets/site/portrait_wplane.jpg">
     </div>
   </div>

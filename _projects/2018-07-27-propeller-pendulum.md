@@ -3,9 +3,9 @@ layout: post
 title: "2 Motor Propeller Pendulum"
 ---
 
-<!-- ![Dual propeller pendulum]({{site.url}}/assets/portfolio/dual_prop_pend.jpg "Dual propeller pendulum") -->
+<!-- ![Dual propeller pendulum]({{site.url}}/assets/projects/dual_prop_pend.jpg "Dual propeller pendulum") -->
 <div class="col-md-12">
-  <div class="pull-left"><img src="{{site.url}}/assets/portfolio/dual_prop_pend.jpg" class="pull-left"></div>
+  <div class="pull-left"><img src="{{site.url}}/assets/projects/dual_prop_pend.jpg" class="pull-left"></div>
   <!--more-->
   <div class="pull-left">
     <h3>Summary</h3>

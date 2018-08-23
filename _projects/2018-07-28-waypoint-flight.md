@@ -2,7 +2,7 @@
 layout: post
 title: "Stabilized Flight"
 ---
-![Waypoint flight]({{site.url}}/assets/portfolio/waypoint_flight.jpg "Fixed wing aircraft")
+![Waypoint flight]({{site.url}}/assets/projects/waypoint_flight.jpg "Fixed wing aircraft")
 <!--more-->
 <h3>Summary</h3>
 Like most projects, this started fairly simply. Grab .pdf plans for the FT Explorer online, modify them in Inkscape, and laser cut the components out of Dollar Tree foam board. Glue together, spray paint for visibility, stick a 6 channel receiver inside, set up transmitter mixes, and go fly.

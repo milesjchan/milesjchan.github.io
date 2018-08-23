@@ -2,7 +2,7 @@
 layout: post
 title: "Motor Glider Design"
 ---
-![Motor Glider]({{site.url}}/assets/portfolio/mg_full.jpg "Fixed wing aircraft")
+![Motor Glider]({{site.url}}/assets/projects/mg_full.jpg "Fixed wing aircraft")
 <!--more-->
 <h3>Summary</h3>
 This project actually began with a MATLAB script I wrote to calculate the center of gravity (CG) location of a conventional-layout aircraft, given measurements of the aircraft and a desired static margin. It made picking the CG location for new model airplanes substantially easier, since the manufacturer markings are often incorrect. After writing the tool, I realized that it might have applicability in a design project.
@@ -22,7 +22,7 @@ After validating my model against model airplanes I've already built, I realized
 <h3>Design Method</h3>
 Based on data from previous aircraft designs, I predicted the takeoff weight of my aircraft for a given motor, speed controller, and battery combination. I used this to define my wing planform geometry for my desired aspect ratio, which came from my desire to have glider-like performance.
 
-![MATLAB Planform Geometry]({{site.url}}/assets/portfolio/mg_matlab.png)
+![MATLAB Planform Geometry]({{site.url}}/assets/projects/mg_matlab.png)
 For that given wing geometry, and a tail constraint dimension, I solved for the CG location, vertical and horizontal stabilizer positions and dimensions for reasonable values of vertical and horizontal stabilizer volume fractions. I implemented object-oriented tools in MATLAB to automate the process and provide design visualization capability.
 
 After defining the dimensions of my aircraft, I created a CAD model in SolidWorks.

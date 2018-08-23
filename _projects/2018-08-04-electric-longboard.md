@@ -2,7 +2,7 @@
 layout: post
 title: "Electric Longboard"
 ---
-![Longboard]({{site.url}}/assets/portfolio/el_prototype.jpg "Electric longboard")
+![Longboard]({{site.url}}/assets/projects/el_prototype.jpg "Electric longboard")
 <!--more-->
 <h3>Summary</h3>
 Georgia Tech's campus is decently bikable and walkable, but there are some hills. I wanted a motorized means of getting over those obstacles, and an electric longboard build seemed like a good idea at the time.

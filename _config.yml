@@ -25,9 +25,9 @@ github_username:  jekyll
 excerpt_separator: "<!--more-->"
 
 collections:
-  portfolio:
+  projects:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /projects/:path/
 
 # Build settings
 markdown: kramdown
