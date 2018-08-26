@@ -9,7 +9,6 @@ permalink: /bio/
     <img src="{{site.url}}/assets/site/looking_up.jpg">
   </div>
   <div class="col-md-12">
-    <br/>
     <h3>Education</h3>
     Georgia Institute of Technology - Candidate B.S. Mechanical Engineering - GPA 3.90/4.00
     <ul>
