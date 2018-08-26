@@ -5,10 +5,10 @@ permalink: /bio/
 ---
 
 <div class="row">
-  <div class="col-md-12">
+  <div class="col">
     <img src="{{site.url}}/assets/site/looking_up.jpg">
   </div>
-  <div class="col-md-12">
+  <div class="col">
     <h3>Education</h3>
     Georgia Institute of Technology - Candidate B.S. Mechanical Engineering - GPA 3.90/4.00
     <ul>

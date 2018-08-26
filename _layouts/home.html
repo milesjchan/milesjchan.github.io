@@ -2,30 +2,51 @@
 layout: default
 ---
 
-<div class="home">
-  {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
-  {%- endif -%}
+<header class="pt-3 mb-3">
   {{ content }}
-  <!-- {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "Posts" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
+</header>
 
-    <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
-  {%- endif -%} -->
-</div>
+<!-- <div id="content">
+
+  {% if site.paginate %}
+    {% assign posts = paginator.posts %}
+  {% else %}
+    {% assign posts = site.posts %}
+  {% endif %}
+
+  <ul class="list-unstyled m-0">
+    {% assign date_format = site.minima_reboot.date_format | default: "%b %-d, %Y" %}
+    {% for post in posts %}
+      <li class="py-2">
+        <span class="text-secondary">{{ post.date | date: date_format }}</span>
+
+        <h1 class="mt-1 mb-3 h3">
+          <a href="{{ post.url | relative_url }}">{{ post.title | escape }}</a>
+        </h1>
+
+        <div class="text-justify">
+          {{ post.excerpt }}
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+
+  {% if site.paginate %}
+  <nav class="py-1" aria-label="Blog page navigation">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | relative_url }}">&laquo; Previous</a>
+    {% endif %}
+
+    Page: {{ paginator.page }} of {{ paginator.total_pages }}
+
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | relative_url }}">Next &raquo;</a>
+    {% endif %}
+  </nav>
+  {% endif %}
+
+  {% if site.plugins contains "jekyll-feed" %}
+    <a href="{{ "/feed.xml" | relative_url }}"><div id="rss-icon" class="mb-2"></div></a>
+  {% endif %}
+
+</div> -->

@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Stabilized Flight"
+thumbnail: "waypoint_flight.jpg"
 ---
 ![Waypoint flight]({{site.url}}/assets/projects/waypoint_flight.jpg "Fixed wing aircraft")
 <!--more-->

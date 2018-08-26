@@ -4,23 +4,17 @@ title: Projects
 permalink: /projects/
 ---
 
-<div class="row">
-
+<div class="card-deck">
   {% for projects in site.projects %}
-
-    <a href="{{ projects.url | prepend: site.baseurl }}">
-      <div class="col-xs-12 col-sm-6 col-md-4">
-        <div class="panel panel-primary">
-          <div class="panel-heading">
+    <!-- <a href="{{ projects.url | prepend: site.baseurl }}"> -->
+      <!-- <div class="col-xs-12 col-sm-6 col-md-4"> -->
+        <div class="card">
+          <img class="card-img-top" src="{{site.url}}/assets/projects/{{ projects.thumbnail }}" alt="Card image">
+          <div class="card-header">
               {{ projects.title }}
           </div>
-          <div class="panel-body">
-            {{ projects.excerpt }}
-          </div>
         </div>
-      </div>
-    </a>
-
+      <!-- </div> -->
+    <!-- </a> -->
   {% endfor %}
-
 </div>

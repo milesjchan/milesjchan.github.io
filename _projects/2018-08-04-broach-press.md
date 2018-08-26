@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Broach Press"
+thumbnail: "bp_1stprincipal.jpg"
 ---
 ![Broach Press]({{site.url}}/assets/projects/bp_1stprincipal.jpg)
 <!--more-->

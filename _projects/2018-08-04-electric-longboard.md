@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Electric Longboard"
+thumbnail: "el_prototype.jpg"
 ---
 ![Longboard]({{site.url}}/assets/projects/el_prototype.jpg "Electric longboard")
 <!--more-->

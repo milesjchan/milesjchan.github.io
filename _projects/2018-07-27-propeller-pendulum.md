@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "2 Motor Propeller Pendulum"
+thumbnail: "dual_prop_pend.jpg"
 ---
 
 <!-- ![Dual propeller pendulum]({{site.url}}/assets/projects/dual_prop_pend.jpg "Dual propeller pendulum") -->

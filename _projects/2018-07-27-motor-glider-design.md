@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "Motor Glider Design"
+thumbnail: "mg_full.jpg"
 ---
 ![Motor Glider]({{site.url}}/assets/projects/mg_full.jpg "Fixed wing aircraft")
 <!--more-->
