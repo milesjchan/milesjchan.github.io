@@ -5,12 +5,12 @@ permalink: /bio/
 ---
 
 <div class="row">
-  <div class="col">
+  <div class="col-md-6 col-sm-12">
     <img src="{{site.url}}/assets/site/looking_up.jpg">
   </div>
-  <div class="col">
+  <div class="col-md-6 col-sm-12">
     <h3>Education</h3>
-    Georgia Institute of Technology - Candidate B.S. Mechanical Engineering - GPA 3.90/4.00
+    <p>Georgia Tech | B.S. Mechanical Engineering 2019 | GPA 3.90/4.00</p>
     <ul>
       <li>Minor in Aerospace Engineering</li>
       <li>Concentration in Automation and Robotics</li>
