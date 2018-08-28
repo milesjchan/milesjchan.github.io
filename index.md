@@ -4,19 +4,46 @@
 
 layout: home
 ---
-<!-- <div class="container"> -->
-  <div class="row">
-    <div class="col-sm">
-      <p>I'm Miles, an undergraduate mechanical engineering student at Georgia Tech and aspiring researcher in biomechanics and aerodynamics.</p>
-    </div>
-    <div class="col-sm">
-      <img src = "assets/site/portrait_wplane.jpg">
+<div class="row">
+  <div class="col-sm">
+  <!-- Carousel -->
+    <div id="carouselindex" class="carousel slide mb-3" data-ride="carousel">
+    <!-- indicators -->
+      <ol class="carousel-indicators">
+        <li data-target="#carouselindex" data-slide-to="0" class="active"></li>
+        <li data-target="#carouselindex" data-slide-to="1"></li>
+        <li data-target="#carouselindex" data-slide-to="2"></li>
+        </ol>
+        <!-- slideshow -->
+      <div class="carousel-inner">
+        <div class="carousel-item active">
+          <img class="d-block w-100" src=".../assets/carousel/holding_plane.jpg" alt="First slide">
+          <!-- <div class="carousel-caption d-none d-md-block">
+            <h5>Flying Model Airplanes</h5>
+            <p>Most things are better with friends.</p>
+            </div> -->
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src=".../assets/carousel/plane.jpg" alt="Second slide">
+        </div>
+        <div class="carousel-item">
+          <img class="d-block w-100" src=".../assets/carousel/climbing_halfdome.jpg" alt="Third slide">
+        </div>
+      </div>
+      <a class="carousel-control-prev" href="#carouselindex" role="button" data-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="sr-only">Previous</span>
+      </a>
+      <a class="carousel-control-next" href="#carouselindex" role="button" data-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="sr-only">Next</span>
+      </a>
     </div>
   </div>
-<!-- </div> -->
 
-<!-- <p align="center">
-Time is just a construct, and this website is currently in work. It'll be done when it's done.
-</p>
-
-![alt text](assets/site/looking_out.jpg)*<center>flying fixed wing is a simple pleasure</center>* -->
+  <div class="col-sm">
+    <h3>Welcome!</h3>
+    <p>I'm Miles, an undergraduate mechanical engineering student at Georgia Tech and aspiring researcher in biomechanics and aerodynamics. I love building cool projects and researching cool physical phenomena.</p>
+    <p>Please check out my work, displayed right here on this website!</p>
+  </div>
+</div>

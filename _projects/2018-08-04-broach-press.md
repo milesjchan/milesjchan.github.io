@@ -3,7 +3,7 @@ layout: post
 title: "Broach Press"
 thumbnail: "bp_1stprincipal.jpg"
 ---
-![Broach Press]({{site.url}}/assets/projects/bp_1stprincipal.jpg)
+<div class="img"><img src="{{site.url}}/assets/projects/bp_1stprincipal.jpg" class="float-left w-25 mr-3" alt="Motor Glider Image"></div>
 <!--more-->
 <h3>Summary</h3>
 Transferring torque between a shaft and rotating component requires a mechanical interface of some sort. Depending on the application, a press fit, machine key, or spline interface may be used. Sometimes, it is convenient to use a shaft with a cross section which has multiple contact vertices, such as a hex shaft.
@@ -27,7 +27,4 @@ That being said, one of the key lessons I learned is that no number of mathemati
 
 This project succeeded because, between myself and the mentors on the team, we had enough design and manufacturing intuition to determine whether my analysis values made sense and my structural designs were sound.
 
-<h3>Special Acknowledgement</h3>
-
-
-<h3>Resources</h3>
+<!-- <h3>Resources</h3> -->
