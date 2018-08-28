@@ -5,7 +5,7 @@ thumbnail: "waypoint_flight.jpg"
 ---
 <div class="row">
   <div class="col-lg-4 col-md-4">
-    <img class="img-responsive" src="{{site.url}}/assets/projects/waypoint_flight.jpg">
+    <img class="img-fluid" src="{{site.url}}/assets/projects/waypoint_flight.jpg">
   </div>
 <!--more-->
   <div class="col-lg-8 col-md-8">

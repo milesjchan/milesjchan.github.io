@@ -6,7 +6,7 @@ thumbnail: "dual_prop_pend.jpg"
 <div class="row">
 <!-- ![Dual propeller pendulum]({{site.url}}/assets/projects/dual_prop_pend.jpg "Dual propeller pendulum") -->
   <div class="col-lg-3 col-sm-12 col-md-3">
-    <img class="img-responsive" src="{{site.url}}/assets/projects/dual_prop_pend.jpg">
+    <img class="img-fluid" src="{{site.url}}/assets/projects/dual_prop_pend.jpg">
   </div>
 <!-- <div class="img"><img src="{{site.url}}/assets/projects/dual_prop_pend.jpg" class="float-left w-25 mr-3" alt="Prop Pendulum Image"></div> -->
 <!--more-->
