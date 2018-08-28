@@ -17,17 +17,17 @@ layout: home
         <!-- slideshow -->
       <div class="carousel-inner">
         <div class="carousel-item active">
-          <img class="d-block w-100" src=".../assets/carousel/holding_plane.jpg" alt="First slide">
+          <img class="d-block w-100" src="{{site.url}}/assets/carousel/holding_plane.jpg" alt="First slide">
           <!-- <div class="carousel-caption d-none d-md-block">
             <h5>Flying Model Airplanes</h5>
             <p>Most things are better with friends.</p>
             </div> -->
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src=".../assets/carousel/plane.jpg" alt="Second slide">
+          <img class="d-block w-100" src="{{site.url}}/assets/carousel/plane.jpg" alt="Second slide">
         </div>
         <div class="carousel-item">
-          <img class="d-block w-100" src=".../assets/carousel/climbing_halfdome.jpg" alt="Third slide">
+          <img class="d-block w-100" src="{{site.url}}/assets/carousel/climbing_halfdome.jpg" alt="Third slide">
         </div>
       </div>
       <a class="carousel-control-prev" href="#carouselindex" role="button" data-slide="prev">
