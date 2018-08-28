@@ -4,11 +4,11 @@ title: "Stabilized Flight"
 thumbnail: "waypoint_flight.jpg"
 ---
 <div class="row">
-  <div class="col-sm-12 col-md-4">
+  <div class="col-lg-4 col-sm-12 col-md-4">
     <img src="{{site.url}}/assets/projects/waypoint_flight.jpg">
   </div>
 <!--more-->
-<div class="col-sm-12 col-md-8">
+<div class="col-lg-8 col-sm-12 col-md-8">
   <h3>Summary</h3>
   <p>Like most projects, this started fairly simply. Grab .pdf plans for the FT Explorer online, modify them in Inkscape, and laser cut the components out of Dollar Tree foam board. Glue together, spray paint for visibility, stick a 6 channel receiver inside, set up transmitter mixes, and go fly.</p>
 
