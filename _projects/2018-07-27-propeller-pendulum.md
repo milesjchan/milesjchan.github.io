@@ -30,8 +30,9 @@ thumbnail: "dual_prop_pend.jpg"
     </ul>
 
     <h3>Resources</h3>
-  <ul>
-    <li>Presentation</li>
-    <li>MATLAB simulation</li>
-  </ul>
+    <ul>
+      <li>Presentation</li>
+      <li>MATLAB simulation</li>
+    </ul>
+  </div>
 </div>
