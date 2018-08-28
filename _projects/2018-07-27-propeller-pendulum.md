@@ -5,12 +5,12 @@ thumbnail: "dual_prop_pend.jpg"
 ---
 <div class="row">
 <!-- ![Dual propeller pendulum]({{site.url}}/assets/projects/dual_prop_pend.jpg "Dual propeller pendulum") -->
-  <div class="col-lg-3 col-sm-12 col-md-3">
+  <div class="col-lg-3 col-md-3">
     <img class="img-fluid" src="{{site.url}}/assets/projects/dual_prop_pend.jpg">
   </div>
 <!-- <div class="img"><img src="{{site.url}}/assets/projects/dual_prop_pend.jpg" class="float-left w-25 mr-3" alt="Prop Pendulum Image"></div> -->
 <!--more-->
-  <div class="col-lg-9 col-sm-12 col-md-9">
+  <div class="col-lg-9 col-md-9">
     <h3>Summary</h3>
     <p>The propeller pendulum is an interesting controls problem, consisting of a thrust source mounted on the end of a pivoting arm, where angular position is measured using a potentiometer. Most of the papers I've seen use a poor linearization based on the small-angle approximation about the vertical plane. This of course breaks down when the arm is near the horizontal, 90 degree setpoint. Many examples also do not implement bidirectional flow control, or two propeller-motors opposing each other.</p>
 
