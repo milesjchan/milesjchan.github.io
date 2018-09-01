@@ -4,7 +4,7 @@ title: Biography
 permalink: /bio/
 ---
 
-<div class="img"><img src="{{site.url}}/assets/site/looking_up.jpg" class="float-left w-50 mr-3"></div>
+<div class="img"><img src="{{site.url}}/assets/site/looking_up.jpg" class="float-left w-50 mr-3 mb-2"></div>
   <!-- <div class="col-md-6 col-sm-12">
     <img src="{{site.url}}/assets/site/looking_up.jpg">
   </div> -->
