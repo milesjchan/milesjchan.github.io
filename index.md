@@ -43,7 +43,7 @@ layout: home
 
   <div class="col-sm">
     <h3>Welcome!</h3>
-    <p>I'm Miles, an undergraduate mechanical engineering student at Georgia Tech and aspiring researcher in biomechanics and aerodynamics. I love building cool projects and exploring interesting physical phenomena.</p>
+    <p class="text-justify">I'm Miles, an undergraduate mechanical engineering student at Georgia Tech and aspiring researcher in fluid mechanics. My desire to understand the physics describing natural and man-made systems has always defined my professional aspirations. I enjoy volunteering at the Invention Studio campus makerspace, and working on research, class, and personal projects.</p>
     <p>Please check out my work, displayed right here on this website!</p>
   </div>
 </div>
