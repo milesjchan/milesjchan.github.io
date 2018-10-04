@@ -30,8 +30,9 @@ thumbnail: "dual_prop_pend.jpg"
 
     <h3>Resources</h3>
     <ul>
-      <li>Presentation</li>
-      <li>MATLAB simulation</li>
+      <li><a href="https://docs.google.com/presentation/d/1daNFgGltC08vk_SsBbGCTRFMj0n2JL3UfRZN1FHR368/present?ueb=true&slide=id.p">Presentation with working animations</a></li>
+      <li><a href="{{site.url}}/assets/projects/prop_pend_pres.pdf">Presentation (pdf)</a></li>
+      <li>MATLAB simulation code</li>
     </ul>
   </div>
 </div>
