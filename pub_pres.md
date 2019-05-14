@@ -5,6 +5,7 @@ permalink: /publications_presentations/
 ---
 <h3>Awards</h3>
 <ul>
+  <li><i>National Science Foundation Graduate Research Fellowships Program Honorable Mention</i> (Spring 2019)</li>
   <li><i>President's Undergraduate Research Award</i> funding biomechanics and mimicry research (Summer 2018)</li>
   <li><i>President's Undergraduate Research Award</i> funding soft tissue modeling research (Fall 2015)</li>
   <li><i>Innovation Award</i>, Hack-a-Thing Competition for developing novel soft finger grabber with integrated granular jamming (Fall 2016)</li>
