@@ -9,7 +9,9 @@ permalink: /bio/
     <img src="{{site.url}}/assets/site/looking_up.jpg">
   </div> -->
 <h3>Education</h3>
-<p>Georgia Tech | B.S. Mechanical Engineering 2019 | GPA 3.89/4.00<br> - Minor in Aerospace Engineering<br> - Concentration in Automation and Robotics</p>
+<p>Caltech | Pursuing MS and PhD Aeronautics | Starting Fall 2019<br> - Physics of Fluids</p>
+
+<p>Georgia Tech | BS Mechanical Engineering 2019 | GPA 3.89/4.00<br> - Minor in Aerospace Engineering<br> - Concentration in Automation and Robotics</p>
 
 <h3>About</h3>
 <p class="text-justify">I'm passionate about studying fundamental physical principles, how they manifest themselves in nature, and their implementation in man-made machines. My desire to learn how things work drew me to mechanical engineering as an undergrad, and eventually to research studying fluid and soft matter flow in biological systems in the <a href="http://www.hu.gatech.edu/">Hu Laboratory for Biolocomotion</a> under Dr. David Hu. Completing a co-op at Honda Aircraft, with semesters spent in the mechanical systems, flight sciences, and stress groups, opened my eyes to the interesting world of aerodynamics.</p>
