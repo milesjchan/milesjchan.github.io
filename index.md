@@ -43,7 +43,7 @@ layout: home
 
   <div class="col-sm">
     <h3>Welcome!</h3>
-    <p class="text-justify">I'm Miles, an aspiring researcher in fluid mechanics. My desire to understand the physics describing natural and man-made systems has always defined my professional aspirations. I will begin my graduate studies at Caltech in Fall 2019, pursuing an MS and PhD in Aeronautics.</p>
+    <p class="text-justify">I'm Miles, an incoming Aeronautics graduate student at Caltech. My desire to understand the physics describing natural and man-made systems has always defined my professional aspirations.</p>
 
     <p><a href="{{site.url}}/assets/site/MilesChan_CV_Website.pdf">Curriculum Vitae</a></p>
   </div>
