@@ -1,8 +1,2 @@
-_site
-.sass-cache
-.jekyll-metadata
-assets/projects/xcf
-assets/carousel/xcf
-assets/site/xcf
-research.md
-resources.md
+_site/
+
