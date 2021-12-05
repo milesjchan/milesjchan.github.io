@@ -40,5 +40,4 @@
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
 
-// My custom css  
-img + em { 	display: block; text-align: center; } //image captions
+// My custom css  img + em { 	display: block; text-align: center; } //image captions

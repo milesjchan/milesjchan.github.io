@@ -5,7 +5,8 @@ permalink: /violin/
 author_profile: true
 ---
 
-![Miles's quartet performing at cocktail hour]({{ base_path }}/images/quartet_night.jpg)
+![Miles's quartet providing a dinner performance]({{ base_path }}/images/quartet_night.jpg)
+*My quartet performing at a dinner party at Caltech*
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NEjDeRPz-GQ?start=6192" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
