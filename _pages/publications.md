@@ -17,8 +17,8 @@ redirect_from:
 {% include base_path %}
 
 <ul>
-	<li>My research at Caltech in reduced modeling of wall-bounded turbulence is ongoing, and I have no publications on this topic at the moment </li>
-	<li>My research on wombats resulted in a paper in Soft Matter </li>
+	<li>My research at Caltech on reduced modeling of wall-bounded turbulence is ongoing, and I have no publications on this topic at the moment </li>
+	<li>My research at Georgia Tech on wombats resulted in a paper in <em>Soft Matter</em> </li>
 </ul>
 
 Yang, Patricia, Alexander B. Lee, Miles Chan, Michael Kowalski, Kelly Qiu, Christopher Waid, Gabriel Cervantes, et al. “Intestines of Non-Uniform Stiffness Mold the Corners of Wombat Feces.” Soft Matter 17, no. 3 (2021): 475–88. [https://doi.org/10.1039/D0SM01230K](https://doi.org/10.1039/D0SM01230K)
