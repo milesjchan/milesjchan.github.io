@@ -12,15 +12,20 @@ author_profile: true
 </ul>
 
 <h2>Outreach</h2>
+
+I hope to inspire more students to pursue STEAM careers. When presenting on science and engineering to students, I emphasize that the research I do is accessible. I firmly believe that progress in science benefits from increased representation and diversity, and my outreach efforts focus on underserved and underrepresented communities.
+
 <ul>
+	<li>Presented with Tanner Harms and Jacque Tawney on research and STEM career paths to Life Sciences students at Pasadena Community College (9/2021)</li>
 	<li>Presented with Tanner Harms "Real Life Aerodynamics: How Airplanes Fly and Fish Swim" at Sierra Madre Elementary School PTA Virtual STEAM Night (4/2021)</li>
-	<li>Presented with Dory Castillo on aspects of lift generation at Rutgers University STEAM TRiO event for the Newark, NJ school system (8/2020)</li>
+	<li>Presented "Introduction to Fluid Mechanics" to the community college students participating in the Caltech Base11/Aerospace Mentorship Program (1/2021)</li>
+	<li>Presented with Jacque Tawney "Aerospace Engineering: Soaring Through Air and Amongst The Stars" at Rutgers University STEAM TRiO event for the Newark, NJ school system (8/2020)</li>
 </ul>
 
 
 <h2>Department</h2>
 I volunteer as a member of the GALCIT Graduate Student Council. My focus is on organizing events which help students engage with the research we do and foster a sense of community.
 <ul>
-	<li>Organizer - Aerospace Student Seminars (Caltech 11/2021-present) </li>
+	<li>Organizer - Aerospace Student Lunch Seminars (Caltech 11/2021-present) </li>
 	<li>Organizer - Incoming Students Social (Caltech 10/2020) </li>
 </ul>
