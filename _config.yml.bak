@@ -11,7 +11,7 @@ title                    : "Miles Chan"
 title_separator          : "-"
 name                     : &name "Miles Chan"
 description              : &description "Reduced modeling of wall-bounded turbulence"
-url                      : https://milesjchan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://milesjchan.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "milesjchan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : 
   lastfm           :
-  linkedin         :
+  linkedin         : https://www.linkedin.com/in/milesjchan/
   orcid            : 
   pinterest        :
   soundcloud       :
