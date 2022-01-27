@@ -5,9 +5,6 @@ permalink: /violin/
 author_profile: true
 ---
 
-![Miles at the Athenaeum Holiday Gala]({{ base_path }}/images/milesviolin_smaller.jpg)
-*Miles in front of the Holiday Tree at the Athenaeum Holiday Gala*
-
 ![Miles's quartet providing a dinner performance]({{ base_path }}/images/quartet_night.jpg)
 *My quartet performing at a dinner party at Caltech*
 

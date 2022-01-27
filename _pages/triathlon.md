@@ -10,9 +10,9 @@ author_profile: true
 
 Staying physically active is important to me. I've always been a runner, but I've lately appreciated adding cycling and swimming to my repetoire. I enjoy training and racing with the fine people of the [Caltech Triathlon Club](https://triathlon.clubs.caltech.edu/).
 
-| Event                      | Date    | Distance                 | Time      | 
+| Event                      | Date    | Distance                 | Time      |
 | -------------------------- | ------- | ------------------------ | --------- |
-| Rose Bowl Half Marathon    | 01/2022 | Half Marathon (13.1 mi)  | 1:24:02   |
+| Rose Bowl Half Marathon    | 01/2022 | Half Marathon (13.1 mi)  | 1:24:02   | 
 | San Dimas Turkey Trot      | 11/2021 | Olympic Triathlon        | 2:53:43   |
 | Cal LA Tri                 | 10/2021 | Olympic Triathlon        | 2:45:52   |
 | Naples Island Swim         | 08/2021 | Canal Swim (3 mi)        | 1:25:51   |
