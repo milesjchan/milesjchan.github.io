@@ -12,6 +12,7 @@ author_profile: true
 
 Recent live quartet performances:
 <ul>
+	<li>Caltech Chamber Music Spring Showcase (05/2022)</li>
 	<li>The Holiday Gala Dinners at the Athenaeum (12/2021)</li>
 	<li>Cocktail hour in honor of Caltech trustee Richard Merkin (11/2021)</li>
 </ul>
