@@ -12,9 +12,11 @@ Staying physically active is important to me. I've always been a runner, but I'v
 
 | Event                      | Date    | Distance                                      | Time      | Notes                        |
 | -------------------------- | ------- | --------------------------------------------- | --------- | ---------------------------- |
+| LA Triathlon               | 05/2022 | Olympic Triathlon                             | 2:38:25   | PR                           |
+| San Jose 8K                | 04/2022 | 8K (4.97 mi)                                  | 0:29:49   |                              |
 | Los Angeles Marathon       | 03/2022 | Marathon (26.2 mi)                            | 2:57:33   | Boston Qualifying Standard   |
 | Pasadena Triathlon         | 03/2022 | Reverse Triathlon (5k run/15k bike/150m swim) | 0:52:55   | 7/597 overall                |
-| Rose Bowl Half Marathon    | 01/2022 | Half Marathon (13.1 mi)                       | 1:24:02   | 2nd place M25-29             |
+| Rose Bowl Half Marathon    | 01/2022 | Half Marathon (13.1 mi)                       | 1:24:02   | PR, 2nd place M25-29         |
 | San Dimas Turkey Trot      | 11/2021 | Olympic Triathlon                             | 2:53:43   | 3rd place M25-29             |
 | Cal LA Tri                 | 10/2021 | Olympic Triathlon                             | 2:45:52   |                              |
 | Naples Island Swim         | 08/2021 | Canal Swim (3 mi)                             | 1:25:51   |                              |
