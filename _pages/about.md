@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in the Graduate Aerospace Laboratories at Caltech ([GALCIT](https://galcit.caltech.edu/)), working with [Dr. Beverley McKeon](https://mckeon.caltech.edu) on reduced order modeling of wall-bounded turbulent flows using resolvent analysis. Turbulence is a very practical issue, since it is responsible for most of the drag in many engineering systems. I am very excited about the possibility of recovering features and statistics of turbulent flows by using the latest developments in equation-based and data-driven analysis tools.
+I am a PhD candidate in the Graduate Aerospace Laboratories at Caltech ([GALCIT](https://galcit.caltech.edu/)), working with [Dr. Beverley McKeon](https://mckeon.caltech.edu). My research focuses on interrogating and modeling the physics of near-wall turbulence in the presence of surface texture, using data from numerical simulations and analysis of the Navier-Stokes resolvent operator.
 
 I completed my undergraduate studies at Georgia Tech, where I conducted research with [Dr. David Hu](https://hu.gatech.edu/) and [Dr. Patricia Yang](https://www.patriciayang.net/) on how wombats make cubic feces. This work features a cool application of mechanical principles to explain an unintuitive phenomenon in nature. 
 

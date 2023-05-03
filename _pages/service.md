@@ -5,10 +5,12 @@ permalink: /service/
 author_profile: true
 ---
 
-<h2>Teaching</h2>
-
+<h2>Department</h2>
+I volunteer as a member of the GALCIT Graduate Student Council. I organize events which help students engage with department research and foster a sense of community.
 <ul>
-	<li>Teaching Assistant - Ae150 Aerospace Engineering Seminar (Caltech 10/2020-6/2021) </li>
+	<li>Committee Member - Hornung Committee for selecting the best oral PhD defense in the department (Caltech 11/2022-present) </li>
+	<li>Organizer - Aerospace Student Research Lunch Seminars (Caltech 11/2021-present) </li>
+	<li>Organizer - Incoming Students Social (Caltech 10/2020) </li>
 </ul>
 
 <h2>Outreach</h2>
@@ -23,11 +25,8 @@ I hope to inspire more students to pursue STEAM careers. When presenting on scie
 	<li>Presented with Jacque Tawney "Aerospace Engineering: Soaring Through Air and Amongst The Stars" at Rutgers University STEAM TRiO event for the Newark, NJ school system (8/2020)</li>
 </ul>
 
+<h2>Teaching</h2>
 
-<h2>Department</h2>
-I volunteer as a member of the GALCIT Graduate Student Council. My focus is on organizing events which help students engage with the research we do and foster a sense of community.
 <ul>
-	<li>Committee Member - Hornung Committee for selecting the best oral PhD defense in the department (Caltech 11/2022-present) </li>
-	<li>Organizer - Aerospace Student Research Lunch Seminars (Caltech 11/2021-present) </li>
-	<li>Organizer - Incoming Students Social (Caltech 10/2020) </li>
+	<li>Teaching Assistant - Ae150 Aerospace Engineering Seminar (Caltech 10/2020-6/2021) </li>
 </ul>
