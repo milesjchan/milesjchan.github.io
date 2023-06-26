@@ -5,6 +5,7 @@ permalink: /research/
 author_profile: true
 redirect_from: 
   - /publications.html
+  - /publications/
 ---
 <!--
 [//]: #{% if author.googlescholar %}
