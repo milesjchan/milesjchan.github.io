@@ -17,7 +17,8 @@ redirect_from:
 
 Presentations:
 <ul>
-	<li><strong>Chan, Miles</strong>, Ugo Piomelli, Beverley McKeon. "Linear aspects of the turbulent flow response to general roughness." <em>16th Southern California Flow Physics Symposium</em>, San Diego, CA, April 22, 2023.</li>
+	<li><strong>Chan, Miles</strong>, Ugo Piomelli, Beverley McKeon. "<a href="https://meetings.aps.org/Meeting/DFD23/Session/J43.5">Compressed representations and reduced order modeling of the turbulent flow response to roughness.</a>" <em>76th Annual Meeting of the Division of Fluid Dynamics</em>, Washington, DC, November 19, 2023.</li>
+	<li><strong>Chan, Miles</strong>, Ugo Piomelli, Beverley McKeon. "<a href="\files\SoCal_Fluids_Abstract_2023_submit.pdf">Linear aspects of the turbulent flow response to general roughness.</a>" <em>16th Southern California Flow Physics Symposium</em>, San Diego, CA, April 22, 2023.</li>
 </ul>
 
 [//]: Wombats:

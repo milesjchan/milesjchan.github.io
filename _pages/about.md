@@ -15,7 +15,7 @@ I completed my undergraduate studies at Georgia Tech, where I conducted research
 <h2>Education</h2>
 
 <ul>
-	<li>Ph.D in Aeronautics, California Institute of Technology, 2024 (expected)</li>
+	<li>Ph.D in Aerospace Engineering, California Institute of Technology, 2024 (expected)</li>
 	<li>M.S. in Aeronautics, California Institute of Technology, 2020</li>
 	<li>B.S. in Mechanical Engineering, Georgia Institute of Technology, 2019</li>
 </ul>
