@@ -1,0 +1,36 @@
+categories:
+
+
+projects:
+
+  - title: Interrogating the near wall flow over surface roughness
+    system-name: 
+    gif: assets/img/demo_scene_perception.gif
+    conference:
+    conference-web:
+    status:
+    authors: <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: Wakefield 
+    abstract-more: 
+    category:
+
+  - title: Coarse representation of near wall turbulent eddies
+    system-name: 
+    gif: assets/img/demo_scene_perception.gif
+    conference:
+    conference-web:
+    status:
+    authors: <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: Blah
+    abstract-more: 
+    category:

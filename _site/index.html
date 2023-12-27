@@ -1,0 +1,292 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+
+        <!-- Metadata -->
+        <meta charset="utf-8"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/>
+        <meta name="description" content="website"/>
+        <meta name="author" content="Miles Chan"/>
+        <title>Miles Chan | PhD Aerospace Engineering '24 @ Caltech</title>
+        <link rel="icon" type="image/x-icon" href="assets/img/ms-icon-310x310.png"/>
+        
+        <!-- Font Awesome icons -->
+        <script src="https://use.fontawesome.com/releases/v5.15.3/js/all.js"></script>
+		
+        <!-- Google fonts-->
+        <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">        
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet" type="text/css"/>
+        <link href="https://fonts.googleapis.com/css?family=Muli:400,400i,800,800i" rel="stylesheet" type="text/css"/>
+        <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.4.0/css/font-awesome.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.theme.default.min.css">
+
+        <!-- Core theme CSS -->
+        <link href="styles/styles.css" rel="stylesheet"/>
+
+    </head>
+
+    <body class="light-theme">
+
+        <!-- Moving particles -->
+        <canvas id="canvas"></canvas>
+
+        <!-- Progress bar on top -->
+        <div class="progress-bar-container">
+            <div class="progress-bar" id="progressBar"></div>
+        </div>
+
+        <!-- Back to top button -->
+        <a id="back-to-top-button"></a>
+
+        <!-- Toggle dark/light theme button -->
+        <button class="toggle-theme-button" onclick="toggleTheme()">☀️</button>
+        
+        <!-- Assitant icon saying about theme changes -->
+        <div class="popup-icon-container" id="popupIconContainer" draggable="true">
+            <div class="icon"><img src="assets/img/ms-icon-310x310.png" width="65" height="65"></div>
+            <div class="speech-balloon"></div>
+        </div>
+        
+        <!-- Dismissal area for assistant icon -->
+        <div class="dismissal-area" id="dismissalArea">&#10006;</div>
+
+        <!-- Content -->
+        <div class="container mt-5">
+            <!-- About section -->
+
+<div class="row mb-4">
+    <div class="col-lg-2 col-md-4">
+        <div class="ring-container">
+            <div class="ring">
+                <div class="hollow-ring">
+                    <img class="profile-image" src="assets/img/milesnature.jpg" alt="Miles Chan" />
+                    
+                </div>
+            </div>
+        </div>
+        <hr />
+        <div class="social-icons">	
+            
+            
+            
+            
+            
+             <a class="social-icon" href="https://www.linkedin.com/in/milesjchan/" target="_blank" rel="noopener" title="Resume"><i class="fa fa-linkedin" style="font-size: 35px"></i></a> 
+        </div>
+        <p></p>
+    </div>
+
+    <div class="col-lg-10 col-md-8">
+        <h2>Miles Chan </h2>
+        <p></p>
+        I am a PhD candidate in Aerospace Engineering at Caltech (expected graduation in 2024). I study reduced-order modeling of turbulent flows with my advisor, Dr. Beverley McKeon. I am currently based in Menlo Park, as my group has mostly moved over to Stanford.
+        <p></p>
+        I grew up in San Jose, CA, so finishing my PhD at Stanford has brought me home. Here was where I developed my interest in engineering, leading to undergraduate study in mechanical engineering at Georgia Tech and my graduate work at Caltech. I also began pursuing music and running here, which remain my central hobbies.      
+        <p></p>
+        <code>&gt;&gt; My research is in constructing low-order representations of near-wall turbulent flows which capture key aspects of the flow physics while minimizing computational expense, and leveraging those results in the context of wall-modeling for large eddy simulations and low-order predictions for engineering quantities such as drag over surface roughness.</code>
+        <!-- <p></p> -->
+    </div>
+</div>
+
+<!-- Research section -->
+
+<hr />
+
+<div class="row" id="research">
+    <div class="col">
+        <h2 clss="mb-5">📍 research highlights</h2>
+        <p></p>
+        <div id="filters">
+            <button class="filter-button active" data-filter="*">all</button>
+            
+        </div>
+        <p></p>
+        <div id="projects" class="isotope">
+            
+                <div class="project" data-filter="">
+    <div class="row mb-4">
+        <div class="col-sm-4">
+            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/demo_scene_perception.gif" />
+        </div>
+        <div class="col-sm-8">
+            
+            <b>Interrogating the near wall flow over surface roughness</b>
+            <br />
+            <i><a href="" target="_blank" rel="noopener"></a></i> 
+            
+            <br />
+            <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+            <br />
+            
+            
+            
+            
+            
+            <br />
+            <u><b><i>Abstract</i></b>:</u> 
+            Wakefield
+            <span class="collapse">
+                
+            </span> 
+            <span> <a href="#" data-toggle="collapse" onclick="toggleText(this)" id="link-">... See More</a></span>
+        </div>                       
+    </div>
+</div>
+
+            
+                <div class="project" data-filter="">
+    <div class="row mb-4">
+        <div class="col-sm-4">
+            <img width="100%" height="auto" class="w-full rounded-lg" src="assets/img/demo_scene_perception.gif" />
+        </div>
+        <div class="col-sm-8">
+            
+            <b>Coarse representation of near wall turbulent eddies</b>
+            <br />
+            <i><a href="" target="_blank" rel="noopener"></a></i> 
+            
+            <br />
+            <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+            <br />
+            
+            
+            
+            
+            
+            <br />
+            <u><b><i>Abstract</i></b>:</u> 
+            Blah
+            <span class="collapse">
+                
+            </span> 
+            <span> <a href="#" data-toggle="collapse" onclick="toggleText(this)" id="link-">... See More</a></span>
+        </div>                       
+    </div>
+</div>
+
+            
+        </div>
+        <p></p>
+    </div>
+</div>
+
+<!-- Music gallery section -->
+
+<hr />
+
+<div class="row" id="music">
+    <div class="col">
+        <h2 clss="mb-5">📍 music</h2>
+        <p></p>
+        Playing the violin, especially in chamber ensembles, has been a great source of joy for me since I was 5. During my time at Stanford, I am continuing to take lessons, improve my technique, and think more deeply about interpretation.
+        <p></p>
+        
+            <div class="gallery">
+    <img src="assets/img/miles_violin_intro.jpg" alt="Introduction and Rondo Capriccioso with Caltech Orchestra" width="800" height="600" />
+    <div class="desc">Introduction and Rondo Capriccioso with Caltech Orchestra (2023)</div>
+</div>
+
+        
+            <div class="gallery">
+    <img src="assets/img/schumann_exported.jpg" alt="Schumann Piano Quartet" width="800" height="600" />
+    <div class="desc">Schumann Piano Quartet (2023)</div>
+</div>
+
+        
+            <div class="gallery">
+    <img src="assets/img/rehearsing_death_maiden.jpg" alt="Schubert Death and the Maiden" width="800" height="600" />
+    <div class="desc">Schubert Death and the Maiden (2023)</div>
+</div>
+
+        
+        <p></p>
+    </div>
+</div>
+
+<!-- Sports gallery section -->
+
+<hr />
+
+<div class="row" id="sports">
+    <div class="col">
+        <h2 clss="mb-5">📍 sports</h2>
+        <p></p>
+        I enjoy easy running and hard intervals. I'll run with or without headphones. I also appreciate the social and exploratory nature of cycling. Currently, I am focused on developing faster 5k speed and preparing for my third marathon.
+        <p></p>
+        
+            <div class="gallery">
+    <img src="assets/img/miles_running_5k.jpg" alt="17:32 in the Santa Run 5k" width="800" height="600" />
+    <div class="desc">17:32 in the Santa Run 5k (2023)</div>
+</div>
+
+        
+            <div class="gallery">
+    <img src="assets/img/milesbikes.jpg" alt="4:51:02 at Santa Cruz 70.3" width="800" height="600" />
+    <div class="desc">4:51:02 at Santa Cruz 70.3 (2022)</div>
+</div>
+
+        
+            <div class="gallery">
+    <img src="assets/img/miles_running_full.jpg" alt="2:57:33 at Los Angeles Marathon" width="800" height="600" />
+    <div class="desc">2:57:33 at Los Angeles Marathon (2022)</div>
+</div>
+
+        
+            <div class="gallery">
+    <img src="assets/img/miles_running_half.jpg" alt="1:24:02 at Rose Bowl Half" width="800" height="600" />
+    <div class="desc">1:24:02 at Rose Bowl Half (2022)</div>
+</div>
+
+        
+        <p></p>
+    </div>
+</div>
+
+<!-- Footer section -->
+
+<div>‎</div>
+<hr />
+
+<footer class="pt-2 my-md-2 pt-md-">
+    <div class="row justify-content-center">
+        <div class="col-7 col-md text-left align-self-center">
+            <p class="h6">© Miles Chan, <span id="currentYear"></span></p>
+            <a href="https://github.com/mkhangg/academic-website" target="_blank" rel="noopener"><b>&gt; web source @github</b></a>
+        </div>
+        <div class="col col-md text-right">
+            
+                <img class="mr+4" src="" data-canonical-src="" alt="" width="60" />
+            
+                <img class="mr+4" src="" data-canonical-src="" alt="" width="60" />
+            
+        </div>
+    </div>
+    <p></p>
+</footer>
+
+
+        </div>
+
+        <!-- Bootstrap core JS-->
+        <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"></script>
+        <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js"></script>
+
+        <!-- Isotope JS -->
+        <script src="https://cdn.jsdelivr.net/npm/isotope-layout@3.0.2/dist/isotope.pkgd.min.js"></script>
+
+        <!-- OwlCarousel2 JS -->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
+        
+		<!-- Third party plugin JS-->
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/animejs/3.2.1/anime.min.js"></script>
+
+		<!-- Core theme JS-->
+        <script src="js/scripts.js"></script>
+
+    </body>
+</html>
