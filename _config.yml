@@ -2,6 +2,7 @@
 title: Miles Chan
 info: PhD Aerospace Engineering '24 @ Caltech
 icon-pic: assets/img/ms-icon-310x310.png
+url: https://milesjchan.com
 
 # exclude these items when generated website in _site/index.html
 exclude:
