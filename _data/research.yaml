@@ -4,7 +4,7 @@ projects:
 
   - title: Interrogating the near wall flow over surface roughness
     system-name: 
-    gif: assets/img/demo_scene_perception.gif
+    gif: assets/img/something_wakefield.png
     conference:
     conference-web:
     status:
