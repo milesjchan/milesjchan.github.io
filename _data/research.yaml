@@ -1,0 +1,37 @@
+categories:
+
+projects:
+
+  - title: Interrogating the near wall flow over surface roughness
+    system-name: 
+    gif: assets/img/something_wakefield.png
+    conference:
+    conference-web:
+    status:
+    authors: <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: With a reduced number of degrees of freedom, I replicate the spatio-temporal statistics and spatial features of the temporally-averaged velocity fluctuations over a sand grain roughness in DNS of a channel flow.
+    abstract-more: 
+    category:
+
+  - title: Coarse representation of near-wall turbulent eddies
+    system-name: 
+    gif: assets/img/wallmodelmodes.png
+    conference:
+    conference-web:
+    status:
+    authors: <u>Miles Chan</u>, Zvi Hantsis, Ugo Piomelli, Beverley McKeon
+    pdf: 
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    abstract-less: A self-consistent coarse representation of the near-wall turbulent eddies in a smooth channel flow.
+    abstract-more: 
+    category:
+
+introduction: Turbulence is a hard problem, but I have found some cool trends and modeling approaches while working with these very large datasets.

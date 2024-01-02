@@ -1,0 +1,15 @@
+<!-- Music gallery section -->
+
+<hr>
+<div class="row" id="music">
+    <div class="col">
+        <h2 clss="mb-5">🎻 music</h2>
+        <p></p>
+        {{ site.data.music.introduction }}
+        <p></p>
+        {% for picture in site.data.music.pictures %}
+            {% include_relative _libs/gallery_widget.html %}
+        {% endfor %}
+        <p></p>
+    </div>
+</div>
