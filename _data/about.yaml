@@ -2,6 +2,7 @@
 name: Miles Chan
 profile-pic: assets/img/milesnature.jpg
 pronunciation:
+location: Menlo Park, CA
 
 # emoji indicator
 emoji:
@@ -13,7 +14,8 @@ linkedin: https://www.linkedin.com/in/milesjchan/
 researchgate: 
 github: 
 youtube: 
-resume: 
+resume: assets/doc/Chan_Miles_Resume_Web.pdf
+email: mailto:mjchan@caltech.edu 
 
 # about me
 first-paragraph: I am a PhD candidate in Aerospace Engineering at Caltech (expected graduation in 2024). I study reduced-order modeling of turbulent flows with my advisor, <a href="https://mckeon.stanford.edu/">Dr. Beverley McKeon</a>. I am currently based in Menlo Park, as my group has mostly moved over to Stanford.

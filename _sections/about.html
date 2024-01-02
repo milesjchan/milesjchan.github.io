@@ -22,13 +22,15 @@
             {% if site.data.about.github %} <a class="social-icon" href="{{ site.data.about.github }}" target="_blank" rel="noopener" title="GitHub"><i class="fab fa-github" style="font-size: 35px; color: #171515"></i></a> {% endif %}
             {% if site.data.about.youtube %} <a class="social-icon" href="{{ site.data.about.youtube }}" target="_blank" rel="noopener" title="YouTube"><i class="fab fa-youtube" style="font-size: 35px; color: #FF0000"></i></a> {% endif %}
             {% if site.data.about.resume %} <a class="social-icon" href="{{ site.data.about.resume }}" target="_blank" rel="noopener" title="Resume"><i class="fas fa-file-alt" style="font-size: 35px; color: #bd5d38"></i></a> {% endif %}
-            {% if site.data.about.linkedin %} <a class="social-icon" href="{{ site.data.about.linkedin }}" target="_blank" rel="noopener" title="Resume"><i class="fa fa-linkedin" style="font-size: 35px"></i></a> {% endif %}
+            {% if site.data.about.linkedin %} <a class="social-icon" href="{{ site.data.about.linkedin }}" target="_blank" rel="noopener" title="LinkedIn"><i class="fab fa-linkedin" style="font-size: 35px; color: #0077B5"></i></a> {% endif %}
+            {% if site.data.about.email %} <a class="social-icon" href="{{ site.data.about.email }}" target="_blank" rel="noopener" title="Email"><i class="fa fa-envelope" style="font-size: 35px;"></i></a> {% endif %}
         </div>
         <p></p>
     </div>
 
     <div class="col-lg-10 col-md-8">
-        <h2>{{ site.data.about.name }} {% if site.data.about.pronunciation %}<span class="text-primary">{{ site.data.about.pronunciation }}</span>{% endif %}</h2>
+        <h2>{{ site.data.about.name }}</h2>
+        <!-- {% if site.data.about.location %} <p>🌎 {{ site.data.about.location }}</p> {% endif %} -->
         <p></p>
         {{ site.data.about.first-paragraph }}
         <p></p>

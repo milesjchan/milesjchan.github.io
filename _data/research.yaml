@@ -20,7 +20,7 @@ projects:
 
   - title: Coarse representation of near-wall turbulent eddies
     system-name: 
-    gif: assets/img/demo_scene_perception.gif
+    gif: assets/img/wallmodelmodes.png
     conference:
     conference-web:
     status:
