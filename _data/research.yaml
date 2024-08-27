@@ -2,7 +2,7 @@ categories:
 
 projects:
 
-  - title: Interrogating the near wall flow over surface roughness
+  - title: Modeling roughness sublayer turbulence using resolvent analysis
     system-name: 
     gif: assets/img/something_wakefield.png
     conference:
@@ -14,11 +14,11 @@ projects:
     demo: 
     slides: 
     talk: 
-    abstract-less: With a reduced number of degrees of freedom, I replicate the spatio-temporally averaged statistics and spatial features of the temporally-averaged velocity fluctuations over a sand grain roughness in DNS of a channel flow.
+    abstract-less: Predictions of spatially-varying turbulence in the presence of surface roughness from resolvent analysis.
     abstract-more: 
     category:
 
-  - title: Coarse representation of near-wall turbulent eddies
+  - title: Data-driven reduced-order modeling of near-wall turbulent fluctuations for wall-modeled LES
     system-name: 
     gif: assets/img/wallmodelmodes.png
     conference:
@@ -30,7 +30,7 @@ projects:
     demo: 
     slides: 
     talk: 
-    abstract-less: Developing a self-consistent coarse representation of the near-wall turbulent eddies in a smooth channel flow.
+    abstract-less: Developing a self-consistent low-order resolvent mode representation of near-wall turbulent eddies, scalable to engineering-relevant Reynolds numbers. 
     abstract-more: 
     category:
 

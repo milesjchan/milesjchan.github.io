@@ -18,8 +18,6 @@ resume: assets/doc/Chan_Miles_Resume_Web.pdf
 email: mailto:mjchan@caltech.edu 
 
 # about me
-first-paragraph: I am a PhD candidate in Aerospace Engineering at Caltech (expected graduation in 2024). I study reduced-order modeling of turbulent flows with my advisor, <a href="https://mckeon.stanford.edu/">Dr. Beverley McKeon</a>. I am currently based in Menlo Park, as my group has mostly moved over to Stanford.
+first-paragraph: I am a PhD candidate in Aerospace Engineering at Caltech, advised by <a href="https://mckeon.stanford.edu/">Dr. Beverley McKeon</a> (expected graduation in March 2025). I currently hold a visiting student appointment at Stanford.
 
-second-paragraph: I grew up in San Jose, CA, so finishing my PhD at Stanford has brought me home. Here, I developed my interest in engineering, which motivated my pursuit of a BS in mechanical engineering at Georgia Tech and my MS/PhD work at Caltech. I also began pursuing music and running here, which remain my central hobbies.
-
-research-interest: My research is in constructing low-order representations of near-wall turbulent flows which capture key aspects of the flow physics while minimizing computational expense, and leveraging those results in the context of wall-modeling for large eddy simulations and low-order predictions for engineering quantities such as drag over surface roughness. 
+research-interest: In my research, I develop reduced-order models of near-wall and roughness sublayer turbulence using resolvent analysis and characterize their capacity to improve prediction of flow physics, statistics,  and existing wall-modeling schemes for large eddy simulations. 
