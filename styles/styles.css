@@ -538,7 +538,7 @@ div.desc {
 }
 
 
-/* Styles for middle-layer moving-particle canvas */
+/* Styles for middle-layer moving-particle canvas (enable or disable for particles) */
 canvas {
     position: fixed;
     top: 0;
