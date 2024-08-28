@@ -80,7 +80,8 @@ code {
     border-radius: 50%;
     padding: 4px;
     box-sizing: border-box;
-    background: linear-gradient(to right, #f09433, #e6683c, #dc2743, #cc2366, #bc1888);
+    /* background: linear-gradient(to right, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); */
+    background: #76777B;
     mask-composite: exclude;
 }
 .hollow-ring {
