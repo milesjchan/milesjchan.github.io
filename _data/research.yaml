@@ -34,4 +34,4 @@ projects:
     abstract-more: 
     category:
 
-introduction: Turbulent fluid flow is a complex system, and it is challenging to simulate and work with the resulting highly-resolved data. Nonetheless, I have found some cool trends useful for modeling and approaches for creating useful simplified representations of near-wall turbulence.
+introduction: Turbulent fluid flow is a non-linear, multi-scale physical system. Simulating turbulent flows requires memory- and cpu-intensive computations, and the resulting high-dimensional data is challenging to interpret. In my research, I develop methods for reduced-order modeling of near-wall and roughness sublayer turbulence. Day-to-day, my work includes running computational fluid dynamics simulations on high-performance computing clusters, developing meaningful data analyses and flow visualizations, and constructing meaningful reduced-order representations which capture key flow features using spectral and modal analysis techniques. I also use theory and equation-driven methods, in particular resolvent analysis of the Navier-Stokes equations, to construct predictive low-order models. 
