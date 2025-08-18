@@ -25,15 +25,13 @@ projects:
     conference-web:
     status:
     authors: Zvi Hantsis, <b>Miles Chan</b>, Ugo Piomelli, Beverley McKeon
-    pdf: 
+    pdf:
     code: 
     demo: 
     slides: 
     talk: 
-    abstract-less: I developed methods for modeling turbulent fluctuations in the near-wall layer of wall-modeled LES at high Reynolds numbers, using data and Reynolds-number scaling approaches from resolvent analysis. The work is documented in my thesis and a submitted publication. Skills used include MATLAB, C++, MPI, data visualization and analysis, pre- and post-processing of simulation inputs/results.
+    abstract-less: I developed methods for modeling turbulent fluctuations in the near-wall layer of wall-modeled LES at high Reynolds numbers, using data and Reynolds-number scaling approaches from resolvent analysis. The work is documented in my thesis and a submitted publication. Skills used include MATLAB, C++, MPI, data visualization and analysis, pre- and post-processing of simulation inputs/results. <br><br> <b>Relevant publication</b> <a href="https://web.stanford.edu/group/ctr/ResBriefs/2024/16_Chan.pdf">2024 Annual Research Brief</a>
     abstract-more: 
     category:
-    
-    
 
 introduction: Turbulent fluid flow is a highly multi-scale, nonlinear physical system. Simulating turbulent flows requires memory- and CPU-intensive computations, and the resulting high-dimensional data is challenging to interpret. In my research, I develop methods for reduced-order modeling of near-wall and roughness sublayer turbulence. Day-to-day, my work includes running computational fluid dynamics simulations on high-performance computing clusters, developing meaningful data analyses and flow visualizations, and constructing reduced-order representations which capture key flow features using spectral and modal analysis techniques. I also use theory- and equation-driven methods, in particular resolvent analysis of the Navier-Stokes equations, to construct predictive low-order models. 

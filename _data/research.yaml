@@ -25,12 +25,12 @@ projects:
     conference-web:
     status:
     authors: Zvi Hantsis, <b>Miles Chan</b>, Ugo Piomelli, Beverley McKeon
-    pdf: 
+    pdf:
     code: 
     demo: 
     slides: 
     talk: 
-    abstract-less: I developed methods for modeling turbulent fluctuations in the near-wall layer of wall-modeled LES at high Reynolds numbers, using data and Reynolds-number scaling approaches from resolvent analysis. The work is documented in my thesis and a submitted publication. Skills used include MATLAB, C++, MPI, data visualization and analysis, pre- and post-processing of simulation inputs/results.
+    abstract-less: I developed methods for modeling turbulent fluctuations in the near-wall layer of wall-modeled LES at high Reynolds numbers, using data and Reynolds-number scaling approaches from resolvent analysis. The work is documented in my thesis and a submitted publication. Skills used include MATLAB, C++, MPI, data visualization and analysis, pre- and post-processing of simulation inputs/results. <br><br> <b>Relevant publication</b> <a href="https://web.stanford.edu/group/ctr/ResBriefs/2024/16_Chan.pdf">Stanford Center for Turbulence Research Annual Research Brief (2024)</a>
     abstract-more: 
     category:
 
