@@ -1,8 +1,8 @@
 # basic information
 name: Miles Chan
-profile-pic: assets/img/miles_prof.png
+profile-pic: assets/img/miles_chan_22_square.jpg
 pronunciation:
-location: Menlo Park, CA
+location: Los Angeles, CA
 
 # emoji indicator
 emoji:
@@ -15,7 +15,7 @@ researchgate:
 github: 
 youtube: 
 resume: assets/doc/Chan_Miles_Resume_Web.pdf
-email: mailto:mjchan@caltech.edu 
+email: mailto:mjchan@alumni.caltech.edu 
 
 # about me ()
 first-paragraph: I am an aerospace engineer (PhD, Caltech 2025) with expertise in modeling, simulation, and analysis of linear and nonlinear dynamical systems incorporating fluid dynamics, thermal effects, structural elements, and aerospace vehicles using equation- and data-driven methods. I am also experienced in mechanical design, stress analysis, machining, and rapid prototyping. I am self-driven and independent, but also a capable collaborator and communicator.
