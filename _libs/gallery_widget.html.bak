@@ -1,4 +1,4 @@
 <div class="gallery">
-    <img src="{{ picture.source }}" alt="{{ picture.caption }}" height="600" width="800">
+    <img src="{{ picture.source }}" alt="{{ picture.caption }}" height="600">
     <div class="desc">{{ picture.caption }} ({{ picture.year }})</div>
 </div>

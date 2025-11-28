@@ -6,3 +6,4 @@
 Structure:
 _data is where page edits are done via Markdown/HTML.
 assets contains images and documents used by the website
+_libs contains the widget layouts
